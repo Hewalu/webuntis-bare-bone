@@ -14,7 +14,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  http: ^1.1.0
+  # http: ^1.1.0
+  http:
   string_similarity: ^2.0.0
 
 dev_dependencies:
